@@ -1,4 +1,4 @@
-# 📊 **S&P 500 Performance Analysis and Prediction**
+# 📊 **S&P 500 Data Analytics and Price Prediction**
 
 ---
 
